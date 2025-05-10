@@ -92,7 +92,7 @@ export default function Navbar() {
           scrolled ? "bg-black/80 backdrop-blur-md py-2 shadow-lg" : "bg-transparent py-4",
         )}
       >
-        <div className="mx-auto px-4 flex justify-between items-center">
+        <div className="mx-auto px-2 flex justify-between items-center">
           <div className="flex items-center gap-2 cursor-pointer" onClick={() => scrollToSection("hero")}>
             <Image src="/img.ico" alt="Logo" width={40} height={40} className="rounded-full bg-white border border-emerald-500 cyber-glow" />
             <span className="text-xl font-bold tracking-tight">0xmfbk<span className="text-emerald-500">.sec</span></span>
