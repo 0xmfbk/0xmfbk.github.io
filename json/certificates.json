@@ -1,0 +1,560 @@
+[
+  {
+    "category": "Cybersecurity Certifications",
+    "certificates": [
+      {
+        "link": null,
+        "title": "Domain 1: Security Principles",
+        "issuer": "ISC2",
+        "date": "Jul 2024",
+        "status": "Active",
+        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
+        "importance": "Medium - Core security domain"
+      },
+      {
+        "link": null,
+        "title": "Domain 2: Incident Response, Business Continuity and Disaster Recovery Concepts",
+        "issuer": "ISC2",
+        "date": "Sep 2024",
+        "status": "Active",
+        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
+        "importance": "Medium - Core security domain"
+      },
+      {
+        "link": null,
+        "title": "Domain 3: Access Control Concepts",
+        "issuer": "ISC2",
+        "date": "Sep 2024",
+        "status": "Active",
+        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
+        "importance": "Medium - Core security domain"
+      },
+      {
+        "link": null,
+        "title": "Domain 4: Network Security",
+        "issuer": "ISC2",
+        "date": "Sep 2024",
+        "status": "Active",
+        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
+        "importance": "Medium - Core security domain"
+      },
+      {
+        "link": null,
+        "title": "Domain 5: Security Operations",
+        "issuer": "ISC2",
+        "date": "Sep 2024",
+        "status": "Active",
+        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
+        "importance": "Medium - Core security domain"
+      },
+      {
+        "link": null,
+        "title": "CC Certified in Cybersecurity (CC)",
+        "issuer": "ISC2",
+        "date": "Sep 2024",
+        "status": "Active",
+        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
+        "importance": "High - Industry recognized certification"
+      },
+      {
+        "link": null,
+        "title": "Upskilling Program in Cybersecurity",
+        "issuer": "Cyber Shield Academy - Jo",
+        "date": "Nov 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Medium - Comprehensive training"
+      },
+      {
+        "link": null,
+        "title": "Mastercard - Cybersecurity Job Simulation",
+        "issuer": "Forage",
+        "date": "Sep 2024",
+        "status": "Active",
+        "id": "DucKqEaYA2s48HL2S",
+        "importance": "High - Practical industry application"
+      },
+      {
+        "link": null,
+        "title": "TBEHC | Termux Beginner Ethical Hacking Course",
+        "issuer": "Saad Maqsood",
+        "date": "Mar 2025",
+        "status": "Active",
+        "id": "4923",
+        "importance": "Medium-High - Practical ethical hacking skills"
+      },
+      {
+        "link": null,
+        "title": "Penetration Testing Practitioner (PTP)",
+        "issuer": "Cyber Shield الدرع السيبراني",
+        "date": "Jan 2024",
+        "status": "Expired",
+        "id": null,
+        "importance": "Medium-High - Advanced practical skills"
+      },
+      {
+        "link": null,
+        "title": "شهادة مشاركة في حفل إطلاق مجتمع الأمن الرقمي",
+        "issuer": "Yarmouk University",
+        "date": "Aug 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - Community involvement"
+      },
+      {
+        "link": null,
+        "title": "The foundation of penetration testing",
+        "issuer": "Yarmouk University",
+        "date": "May 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - Foundation skills"
+      },
+      {
+        "link": null,
+        "title": "Fundamentals of Network Security",
+        "issuer": "Udemy",
+        "date": "Apr 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - Foundation skills"
+      },
+      {
+        "link": null,
+        "title": "How to Secure your Network Device using Cisco Packet Tracer",
+        "issuer": "EDX Alumni",
+        "date": "Apr 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - Practical network security"
+      },
+      {
+        "link": null,
+        "title": "CTF Yarmouk University Competition",
+        "issuer": "Yarmouk University",
+        "date": "Apr 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - Practical application"
+      },
+      {
+        "link": null,
+        "title": "CTF Yarmouk University Competition",
+        "issuer": "Yarmouk University",
+        "date": "Aug 2023",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - Practical application"
+      },
+      {
+        "link": null,
+        "title": "Introduction to Network Security",
+        "issuer": "MaharaTech - ITIMooca",
+        "date": "Jan 2024",
+        "status": "Expired",
+        "id": "rWihoxZ84D",
+        "importance": "Medium - Foundation skills"
+      },
+      {
+        "link": null,
+        "title": "Cybersecurity Roles, Processes & Operating System Security",
+        "issuer": "IBM",
+        "date": "Mar 2024",
+        "status": "Expired",
+        "id": "JGTFKB3FL2GU",
+        "importance": "Medium - Core knowledge"
+      },
+      {
+        "link": null,
+        "title": "Foundations of Cybersecurity",
+        "issuer": "Google",
+        "date": "Feb 2024",
+        "status": "Expired",
+        "id": "2UVVFK2V6S97",
+        "importance": "Medium - Foundation skills"
+      },
+      {
+        "link": null,
+        "title": "Introduction to Cybersecurity",
+        "issuer": "Cisco Networking Academy",
+        "date": "Nov 2023",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - Foundation knowledge"
+      },
+      {
+        "link": null,
+        "title": "الثقافة الرقمية - الأمن السيبراني",
+        "issuer": "Orange Business",
+        "date": "Apr 2025",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low-Medium - General knowledge"
+      },
+      {
+        "link": null,
+        "title": "محاربو السايبر",
+        "issuer": "National Cyber Security Center (NCSCJO)",
+        "date": "Feb 2023",
+        "status": "Active",
+        "id": null,
+        "importance": "Low-Medium - Community involvement"
+      },
+      {
+        "link": null,
+        "title": "Introduction to Critical Infrastructure Protection",
+        "issuer": "OPSWAT Academy",
+        "date": null,
+        "status": "Active",
+        "id": "la-A3YXbPA",
+        "importance": "Low-Medium - Specialized knowledge"
+      },
+      {
+        "link": null,
+        "title": "Cybersecurity",
+        "issuer": "الأكاديمية العربية الدولية - Arab International Academy",
+        "date": "Mar 2023",
+        "status": "Active",
+        "id": null,
+        "importance": "Low-Medium - General knowledge"
+      },
+      {
+        "link": null,
+        "title": "Certificate of Completion - CyberSecurity Course (AIO Competition)",
+        "issuer": "STEAM Center",
+        "date": "Mar 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low-Medium - Foundation training"
+      },
+      {
+        "link": null,
+        "title": "Certificate of participation in Cybersecurity (AIO Competition)",
+        "issuer": "STEAM Center",
+        "date": "Jun 2023",
+        "status": "Active",
+        "id": null,
+        "importance": "Low - Participation"
+      },
+      {
+        "link": null,
+        "title": "Cybersecurity Student Mentor",
+        "issuer": "مبادرة عينك على المستقبل",
+        "date": "Oct 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low-Medium - Leadership role"
+      },
+      {
+        "link": null,
+        "title": "Cybersecurity Essentials",
+        "issuer": "Cisco Networking Academy",
+        "date": "Jan 2022",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Foundation knowledge"
+      }
+    ]
+  },
+  {
+    "category": "Networking Certifications",
+    "certificates": [
+      {
+        "link": null,
+        "title": "Networking Essentials",
+        "issuer": "Cisco Networking Academy",
+        "date": "Jun 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "High - Core networking skills"
+      },
+      {
+        "link": null,
+        "title": "How To Build a Network Topology Using GNS3",
+        "issuer": "EDX Alumni",
+        "date": "Apr 2024",
+        "status": "Active",
+        "id": "39U4BWWWDKLF",
+        "importance": "Medium - Practical skills"
+      },
+      {
+        "link": null,
+        "title": "Linux: SSH to remote server & Networking basics for DevOps",
+        "issuer": "Coursera",
+        "date": "Apr 2024",
+        "status": "Active",
+        "id": "6U62MR958P4S",
+        "importance": "Medium - Practical skills"
+      },
+      {
+        "link": null,
+        "title": "Introduction to Packet Tracer",
+        "issuer": "Cisco Networking Academy",
+        "date": "Jun 2023",
+        "status": "Active",
+        "id": null,
+        "importance": "Low-Medium - Tool proficiency"
+      },
+      {
+        "link": null,
+        "title": "Networking Foundations: Networking Basics",
+        "issuer": "LinkedIn",
+        "date": "Aug 2021",
+        "status": "Active",
+        "id": "8e8eeef2eeb69b0b34fbe50273857b35e1458ac1163791e2782426806b55c87d",
+        "importance": "Low - Foundation knowledge"
+      }
+    ]
+  },
+  {
+    "category": "Linux & System Administration",
+    "certificates": [
+      {
+        "link": null,
+        "title": "Managing file users and permissions in Linux by Access Control List (ACL)",
+        "issuer": "EDX Alumni",
+        "date": "Apr 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium-High - Security-related admin skills"
+      },
+      {
+        "link": null,
+        "title": "Learn to Host Multiple Domains on one Virtual Server",
+        "issuer": "Udemy",
+        "date": "Mar 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium - System administration"
+      },
+      {
+        "link": null,
+        "title": "Linux Beginner Commands",
+        "issuer": "Udemy",
+        "date": "Sep 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Foundation skills"
+      }
+    ]
+  },
+  {
+    "category": "Programming & Development",
+    "certificates": [
+      {
+        "link": null,
+        "title": "Introduction to Programming Using Python",
+        "issuer": "The American Sewar Platform for Education and Training",
+        "date": "Oct 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Medium-High - Security scripting potential"
+      },
+      {
+        "link": null,
+        "title": "Introduction to Front-End Development",
+        "issuer": "Meta",
+        "date": "Jun 2024",
+        "status": "Active",
+        "id": "2LKK5VNLETPT",
+        "importance": "Medium - Web development skills"
+      },
+      {
+        "link": null,
+        "title": "Programming Foundations - Level 1",
+        "issuer": "Programming Advices",
+        "date": "Feb 2024",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Foundation skills"
+      },
+      {
+        "link": null,
+        "title": "Web Development",
+        "issuer": "Hijjawi College YU",
+        "date": "Jul 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Web development skills"
+      },
+      {
+        "link": null,
+        "title": "Python for beginners - Learn all the basic of python",
+        "issuer": "Udemy",
+        "date": "Oct 2022",
+        "status": "Active",
+        "id": null,
+        "importance": "Low - Foundation skills"
+      }
+    ]
+  },
+  {
+    "category": "AI & Emerging Technologies",
+    "certificates": [
+      {
+        "link": null,
+        "title": "AWS Educate Introduction to Generative AI",
+        "issuer": "Amazon Web Services (AWS)",
+        "date": "Mar 2025",
+        "status": "Active",
+        "id": null,
+        "importance": "High - Cutting-edge AI knowledge"
+      },
+      {
+        "link": null,
+        "title": "Master ChatGPT",
+        "issuer": "UniAthena",
+        "date": "Feb 2025",
+        "status": "Active",
+        "id": "3283-4230-6877",
+        "importance": "Medium - AI tool proficiency"
+      },
+      {
+        "link": null,
+        "title": "Arduino workshop",
+        "issuer": "DevIT YU",
+        "date": "May 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Low-Medium - Hardware skills"
+      },
+      {
+        "link": null,
+        "title": "Robotics and Smart System Designing",
+        "issuer": "Zain Jordan",
+        "date": "Oct 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low-Medium - Hardware skills"
+      },
+      {
+        "link": null,
+        "title": "Digital Transformation: Technology and Their Practical Applications",
+        "issuer": "Executive MBA in collaboration with MIT Sloan",
+        "date": "Aug 2022",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low-Medium - Emerging tech knowledge"
+      }
+    ]
+  },
+  {
+    "category": "OSINT & Intelligence",
+    "certificates": [
+      {
+        "link": null,
+        "title": "Careers Using OSINT Skills",
+        "issuer": "My OSINT Training",
+        "date": "May 2024",
+        "status": "Active",
+        "id": "42j2vpn4ez",
+        "importance": "Medium-High - Security intelligence skills"
+      },
+      {
+        "link": null,
+        "title": "Introduction to OSINT",
+        "issuer": "My OSINT Training",
+        "date": "May 2024",
+        "status": "Active",
+        "id": "zmdt6vugi8",
+        "importance": "Medium - Security intelligence skills"
+      }
+    ]
+  },
+  {
+    "category": "Quality Assurance & Testing",
+    "certificates": [
+      {
+        "link": null,
+        "title": "Quality Assurance-Automation using Selenium-Java",
+        "issuer": "ABEDALRAHEEM ALSAQQA",
+        "date": "Feb 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Testing skills"
+      },
+      {
+        "link": null,
+        "title": "Quality Assurance Manual",
+        "issuer": "Abedalraheem Alsaqqa",
+        "date": "Jan 2023",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Testing skills"
+      }
+    ]
+  },
+  {
+    "category": "Game Development",
+    "certificates": [
+      {
+        "link": null,
+        "title": "Gaming Design and Development Electronic Competition",
+        "issuer": "Yarmouk University",
+        "date": "Jul 2024",
+        "status": "Active",
+        "id": null,
+        "importance": "Low - Creative technical skills"
+      }
+    ]
+  },
+  {
+    "category": "Leadership & Soft Skills",
+    "certificates": [
+      {
+        "link": null,
+        "title": "The 13 Indisputable Laws of Leadership",
+        "issuer": "Mastery Academy | ماستري اكاديمي",
+        "date": "Feb 2025",
+        "status": "Active",
+        "id": "VKF7AA3XGD",
+        "importance": "Medium - Professional development"
+      },
+      {
+        "link": null,
+        "title": "The 13 Indisputable Laws of Marketing",
+        "issuer": "Mastery Academy | ماستري اكاديمي",
+        "date": "Feb 2025",
+        "status": "Active",
+        "id": "11HSJWQKAS",
+        "importance": "Low-Medium - Professional development"
+      },
+      {
+        "link": null,
+        "title": "Volunteer",
+        "issuer": "Robotna",
+        "date": "Feb 2025",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Community involvement"
+      },
+      {
+        "link": null,
+        "title": "The Bite To Byte",
+        "issuer": "IEEE Computer society - YU",
+        "date": "Nov 2024",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Event participation"
+      },
+      {
+        "link": null,
+        "title": "أنا اشارك",
+        "issuer": "Crown Prince Foundation",
+        "date": "Jan 2022",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Community involvement"
+      },
+      {
+        "link": null,
+        "title": "+ أنا اشارك",
+        "issuer": "Independent Election Commission - Jordan",
+        "date": "Nov 2022",
+        "status": "Expired",
+        "id": null,
+        "importance": "Low - Community involvement"
+      }
+    ]
+  }
+]

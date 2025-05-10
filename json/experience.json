@@ -1,0 +1,37 @@
+{
+  "Experience": [
+    {
+      "title": "Founder",
+      "company": "DSC YU",
+      "location": "Irbid, YU",
+      "period": "07/2024 - Present",
+      "description": [
+        "Founded DSC YU to empower students in cybersecurity through firsthand training and mentorship.",
+        "Organized workshops on ethical hacking, penetration testing, and digital forensics.",
+        "Led efforts to foster digital safety and a secure university environment."
+      ]
+    },
+    {
+      "title": "Technical Director",
+      "company": "GDSC YU",
+      "location": "Irbid, YU",
+      "period": "10/2023 - 10/2024",
+      "description": [
+        "Directed GDSC YU in empowering students with advanced tech skills through workshops, projects, and events.",
+        "Organized coding bootcamps, hackathons, and tech talks in AI, cybersecurity, cloud computing, and more.",
+        "Bridged academic learning with industry demands, fostering innovation and community impact."
+      ]
+    },
+    {
+      "title": "Technical Support Associate",
+      "company": "The Computer Center of Yarmouk University",
+      "location": "Irbid, YU",
+      "period": "01/2022 - 12/2022",
+      "description": [
+        "Developed and maintained university websites, electronic services, and computer information systems while managing and updating main server devices and data storage units.",
+        "Provided technical support at Yarmouk University's Computer and Information Center, resolving hardware and software issues for users.",
+        "Ensured smooth operation of systems and servers, assisting in the upkeep and enhancement of electronic services and storage infrastructure."
+      ]
+    }
+  ]
+} 

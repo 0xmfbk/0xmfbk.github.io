@@ -1,0 +1,45 @@
+{
+    "Volunteer": [
+      {
+        "organization": "Tech3arabi",
+        "location": "Irbid, YU",
+        "role": "Representative",
+        "date": "Nov 2024 - Present",
+        "responsibilities": [
+          "Researched and presented breaking technology news, focusing on AI, metaverse, and digital marketing trends to educate diverse audiences.",
+          "Increased community tech literacy by translating complex concepts into accessible content, fostering informed participation in digital spaces."
+        ]
+      },
+      {
+        "organization": "Eye on the Future Initiative",
+        "location": "Irbid",
+        "role": "Cybersecurity Guide",
+        "date": "Oct 2023 · 1 mo",
+        "responsibilities": [
+          "Guided 50+ high school and university students in STEM career path selection through one-on-one mentoring sessions.",
+          "Developed and delivered workshops on cybersecurity fundamentals, job market trends, and digital infrastructure protection."
+        ]
+      },
+      {
+        "organization": "Active Member IEEE",
+        "location": "Irbid, YU",
+        "role": "Active Member",
+        "date": "01/2022 - 01/2023",
+        "responsibilities": [
+          "Engaged with IEEE Learning Network (ILN) to enhance technical skills through continuing education programs.",
+          "Supported STEM outreach initiatives by assisting with university accreditation processes and student recognition programs."
+        ]
+      },
+      {
+        "organization": "IEEE Computer Society - YU",
+        "location": "Irbid, YU",
+        "role": "Member & Volunteer",
+        "date": "01/2022 - 01/2023",
+        "responsibilities": [
+          "Leveraged membership resources include 9,000+ publications and 3,500+ courses to stay current with computing trends.",
+          "Participated in 3+ international conferences to expand professional knowledge."
+        ]
+      }
+    ]
+  }
+  
