@@ -3,7 +3,7 @@
     "category": "Cybersecurity Certifications",
     "certificates": [
       {
-        "link": null,
+        "link": "https://drive.google.com/file/d/1TDivfKtKFS6DQIgYfReyZiPYsFsR1_IA/view",
         "title": "Domain 1: Security Principles",
         "issuer": "ISC2",
         "date": "Jul 2024",
@@ -12,7 +12,7 @@
         "importance": "Medium - Core security domain"
       },
       {
-        "link": null,
+        "link": "https://drive.google.com/file/d/1Z4H-upUOKL9kkwLBTXrK0TIr_h_cVQhT/view",
         "title": "Domain 2: Incident Response, Business Continuity and Disaster Recovery Concepts",
         "issuer": "ISC2",
         "date": "Sep 2024",
@@ -21,7 +21,7 @@
         "importance": "Medium - Core security domain"
       },
       {
-        "link": null,
+        "link": "https://drive.google.com/file/d/1XGQ7mZzwZiB9Nh7O4sGDq_YHZ6qY0-r4/view",
         "title": "Domain 3: Access Control Concepts",
         "issuer": "ISC2",
         "date": "Sep 2024",
@@ -30,7 +30,7 @@
         "importance": "Medium - Core security domain"
       },
       {
-        "link": null,
+        "link": "https://drive.google.com/file/d/1e8jZm4TDZJvak117PqKBzon5-OYHbLNh/view",
         "title": "Domain 4: Network Security",
         "issuer": "ISC2",
         "date": "Sep 2024",
@@ -39,7 +39,7 @@
         "importance": "Medium - Core security domain"
       },
       {
-        "link": null,
+        "link": "https://drive.google.com/file/d/1UZb2MO_kXPXvygp77RR29SI8wEx8jTBJ/view",
         "title": "Domain 5: Security Operations",
         "issuer": "ISC2",
         "date": "Sep 2024",
@@ -48,13 +48,22 @@
         "importance": "Medium - Core security domain"
       },
       {
-        "link": null,
+        "link": "https://drive.google.com/file/d/1m4dUHQfgsRM_mDBOUsA0tZhv7OePBrKO/view",
         "title": "CC Certified in Cybersecurity (CC)",
         "issuer": "ISC2",
         "date": "Sep 2024",
         "status": "Active",
         "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
         "importance": "High - Industry recognized certification"
+      },
+      {
+      "link": "https://drive.google.com/file/d/1ntcR4qzJKUHVMiPKCc5Ge7fO0RE0XVjI/view",
+      "title": "CCCourse Conclusion & Final Assessment",
+      "issuer": "ISC2",
+      "date": "Sep 2024",
+      "status": "Active",
+      "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
+      "importance": "High - Industry recognized certification"
       },
       {
         "link": null,
