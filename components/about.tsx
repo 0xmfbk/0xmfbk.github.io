@@ -29,7 +29,7 @@ export default function About() {
           <SectionAnimation direction="right" delay={0.2} className="relative">
             <div className="w-full h-[400px] relative rounded-lg overflow-hidden border-2 border-emerald-500/30">
               <Image
-                src="../public/perimg.jpg"
+                src="/perimg.jpg"
                 alt="perimg"
                 fill
                 style={{ objectFit: "contain", objectPosition: "top" }}
