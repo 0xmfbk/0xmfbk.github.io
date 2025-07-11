@@ -35,11 +35,11 @@ const projects = [
     ],
   },
   {
-    title: "ATM Transaction Processing System",
+    title: "ATM-SYSTEM",
     description:
       "Client-server banking system handling deposits, withdrawals, and balance inquiries via TCP/IP sockets.",
     tech: ["Python", "TCP/IP", "Threading", "Encryption"],
-    link: "https://github.com/0xmfbk/Client-Server-ATM-Transaction-Processing-System",
+    link: "https://github.com/0xmfbk/ATM-SYSEM",
     icon: Shield,
     highlights: [
       "Built a client-server banking system handling deposits, withdrawals, and balance inquiries via TCP/IP sockets.",
