@@ -118,7 +118,7 @@ export default function Navbar() {
               </button>
             ))}
             <a
-              href="https://drive.google.com/drive/folders/1oBi9n9SulKIlBB2zAbA7i5EIBa5j567A"
+              href="https://drive.google.com/file/d/1Ga0RonKGyiaTZLruCg_AJrJcXnubvVON/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium"
