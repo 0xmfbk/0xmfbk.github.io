@@ -2,44 +2,72 @@
     "Volunteer": [
       {
         "organization": "Tech3arabi",
-        "location": "Irbid, YU",
+        "location": "Irbid, Jordan",
         "role": "Representative",
-        "date": "Nov 2024 - Present",
+        "date": "November 2024 - Present",
         "responsibilities": [
-          "Researched and presented breaking technology news, focusing on AI, metaverse, and digital marketing trends to educate diverse audiences.",
-          "Increased community tech literacy by translating complex concepts into accessible content, fostering informed participation in digital spaces."
+          "Researched and presented technology news, focusing on AI and cybersecurity trends.",
+          "Enhanced community tech literacy by translating complex concepts into accessible content."
+        ]
+      },
+      {
+        "organization": "Robotna",
+        "location": "Irbid, Jordan",
+        "role": "VR Specialist",
+        "date": "February 2025 - March 2025",
+        "responsibilities": [
+          "Guided students and families through VR simulations, explaining applications in education and technology."
         ]
       },
       {
         "organization": "Eye on the Future Initiative",
-        "location": "Irbid",
-        "role": "Cybersecurity Guide",
-        "date": "Oct 2023 · 1 mo",
+        "location": "Irbid, Jordan",
+        "role": "Cybersecurity Mentor",
+        "date": "October 2023 - Present",
         "responsibilities": [
-          "Guided 50+ high school and university students in STEM career path selection through one-on-one mentoring sessions.",
-          "Developed and delivered workshops on cybersecurity fundamentals, job market trends, and digital infrastructure protection."
+          "Mentored 50+ students in STEM career paths and cybersecurity fundamentals.",
+          "Delivered workshops on job market trends and digital infrastructure protection."
         ]
       },
       {
-        "organization": "Active Member IEEE",
-        "location": "Irbid, YU",
+        "organization": "GDSC YU",
+        "location": "Irbid, Jordan",
+        "role": "Technical Director",
+        "date": "October 2023 - October 2024",
+        "responsibilities": [
+          "Organized coding bootcamps and tech talks on AI and cybersecurity.",
+          "Bridged academic learning with industry needs to foster innovation."
+        ]
+      },
+      {
+        "organization": "DevIT YU",
+        "location": "Irbid, Jordan",
+        "role": "Academic Director",
+        "date": "January 2022 - December 2024",
+        "responsibilities": [
+          "Led cybersecurity workshops and tech conferences for students.",
+          "Fostered collaboration to enhance technological knowledge-sharing."
+        ]
+      },
+      {
+        "organization": "IEEE",
+        "location": "Irbid, Jordan",
         "role": "Active Member",
-        "date": "01/2022 - 01/2023",
+        "date": "January 2022 - January 2023",
         "responsibilities": [
-          "Engaged with IEEE Learning Network (ILN) to enhance technical skills through continuing education programs.",
-          "Supported STEM outreach initiatives by assisting with university accreditation processes and student recognition programs."
+          "Enhanced technical skills through IEEE Learning Network programs.",
+          "Supported STEM outreach and university accreditation processes."
         ]
       },
       {
-        "organization": "IEEE Computer Society - YU",
-        "location": "Irbid, YU",
-        "role": "Member & Volunteer",
-        "date": "01/2022 - 01/2023",
+        "organization": "IEEE Computer Society - Yarmouk University",
+        "location": "Irbid, Jordan",
+        "role": "Member",
+        "date": "January 2022 - January 2023",
         "responsibilities": [
-          "Leveraged membership resources include 9,000+ publications and 3,500+ courses to stay current with computing trends.",
-          "Participated in 3+ international conferences to expand professional knowledge."
+          "Leveraged resources to stay current with computing trends.",
+          "Participated in international conferences to expand professional networking."
         ]
       }
     ]
-  }
-  
+}
