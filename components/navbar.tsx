@@ -78,6 +78,7 @@ export default function Navbar() {
   const sections = [
     { id: "about", label: "About" },
     { id: "experience", label: "Experience" },
+    { id: "volunteering", label: "Volunteering" },
     { id: "projects", label: "Projects" },
     { id: "skills", label: "Skills" },
     { id: "certificates", label: "Certificates" },
