@@ -80,7 +80,7 @@ export default function About() {
                 <Network className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
                 <div>
                   <h4 className="font-semibold">Networking</h4>
-                  <p className="text-gray-400 text-sm">CCNA Knowledge</p>
+                  <p className="text-gray-400 text-sm">CCNA & CCNP Knowledge</p>
                 </div>
               </div>
             </StaggeredAnimation>
