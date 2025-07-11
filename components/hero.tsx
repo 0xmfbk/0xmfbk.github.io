@@ -109,7 +109,7 @@ export default function Hero() {
             Mustafa Faek Banikhalaf
           </h1>
           <h2 className="text-xl md:text-2xl text-gray-300 mb-6 font-medium drop-shadow-lg">
-            Penetration Testing & Red Team Expert
+            Cybersecurity Engineer | Penetration Testing | Red Team Operations
           </h2>
         </motion.div>
 
