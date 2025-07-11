@@ -19,7 +19,7 @@ export default function Navbar() {
       setScrolled(window.scrollY > 10)
 
       // Determine active section based on scroll position
-      const sections = ["hero", "about", "experience", "projects", "skills", "certificates"]
+      const sections = ["hero", "about", "experience","volunteering","projects", "skills", "certificates"]
 
       // Find the current section in view
       const currentSection = sections.find((section) => {
