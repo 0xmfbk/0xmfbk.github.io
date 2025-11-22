@@ -44,7 +44,7 @@ export default function About() {
 
           <SectionAnimation direction="left" delay={0.4}>
             <h3 className="text-2xl font-bold mb-4 flex items-center">
-              <Shield className="mr-2 text-emerald-500" /> Cybersecurity Engineer
+              <Shield className="mr-2 text-emerald-500" /> Security Researcher
             </h3>
             <p className="text-gray-300 mb-6">
               Security Researcher focused on discovering and mitigating vulnerabilities in web applications and APIs through systematic penetration testing and detailed reporting</p>
@@ -63,21 +63,6 @@ export default function About() {
                   <h4 className="font-semibold">Projects</h4>
                   <p className="text-gray-400 text-sm">10+ Completed</p>
                 </div>
-              </div>
-              <div className="flex items-start">
-                <Server className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
-                <div>
-                  <h4 className="font-semibold">Systems</h4>
-                  <p className="text-gray-400 text-sm">Linux & Windows</p>
-                </div>
-              </div>
-              <div className="flex items-start">
-                <Network className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
-                <div>
-                  <h4 className="font-semibold">Networking</h4>
-                  <p className="text-gray-400 text-sm">CCNA & CCNP Knowledge</p>
-                </div>
-              </div>
             </StaggeredAnimation>
 
             <StaggeredAnimation className="flex flex-wrap gap-2" initialDelay={0.5} delayIncrement={0.05}>
