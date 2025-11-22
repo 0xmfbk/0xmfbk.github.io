@@ -19,8 +19,7 @@ export default function About() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
-          className="text-center mb-16"
-        >
+          className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">About Me</h2>
           <div className="w-20 h-1 bg-emerald-500 mx-auto mb-8"></div>
         </motion.div>
@@ -29,7 +28,7 @@ export default function About() {
           <SectionAnimation direction="right" delay={0.2} className="relative">
             <div className="w-full h-[400px] relative rounded-lg overflow-hidden border-2 border-emerald-500/30">
               <Image
-                src="/new_img.jpeg"
+                src="../public/new_img.jpeg"
                 alt="perimg"
                 fill
                 style={{ objectFit: "contain", objectPosition: "top" }}
