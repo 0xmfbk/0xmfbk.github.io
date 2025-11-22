@@ -46,7 +46,8 @@ export default function About() {
               <Shield className="mr-2 text-emerald-500" /> Security Researcher
             </h3>
             <p className="text-gray-300 mb-6">
-              Security Researcher focused on discovering and mitigating vulnerabilities in web applications and APIs through systematic penetration testing and detailed reporting
+            Security Researcher specializing in web application penetration testing, with practical experience in offensive security operations, community leadership in digital safety initiatives, and technical support for information systems. Skilled in identifying vulnerabilities through simulated attacks, fostering cybersecurity awareness via workshops and mentorship, and ensuring system resilience.
+            Holds foundational certification in cybersecurity and actively contributes to ethical hacking and network security education.
             </p>
 
             <StaggeredAnimation className="grid grid-cols-2 gap-4 mb-6" initialDelay={0.2} delayIncrement={0.1}>
@@ -65,19 +66,11 @@ export default function About() {
                 </div>
               </div>
             </StaggeredAnimation>
-
             <StaggeredAnimation className="flex flex-wrap gap-2" initialDelay={0.5} delayIncrement={0.05}>
               <span className="px-3 py-1 bg-emerald-900/50 text-emerald-400 rounded-full text-sm">
                 Penetration Testing
               </span>
               <span className="px-3 py-1 bg-emerald-900/50 text-emerald-400 rounded-full text-sm">Red Teaming</span>
-              <span className="px-3 py-1 bg-emerald-900/50 text-emerald-400 rounded-full text-sm">
-                Network Security
-              </span>
-              <span className="px-3 py-1 bg-emerald-900/50 text-emerald-400 rounded-full text-sm">Python</span>
-              <span className="px-3 py-1 bg-emerald-900/50 text-emerald-400 rounded-full text-sm">
-                Digital Forensics
-              </span>
             </StaggeredAnimation>
           </SectionAnimation>
         </div>
