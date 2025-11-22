@@ -47,12 +47,7 @@ export default function About() {
               <Shield className="mr-2 text-emerald-500" /> Cybersecurity Engineer
             </h3>
             <p className="text-gray-300 mb-6">
-              Cybersecurity engineer with a B.Sc. in Cybersecurity (2025) from Yarmouk University. Expertise in
-              penetration testing, red teaming, and adversary simulation, including Active Directory exploitation,
-              privilege escalation, and lateral movement. Skilled in exploit development, OSINT, and social engineering
-              to address vulnerabilities. Proficient in digital forensics and incident response, including malware
-              analysis and attack footprint detection.
-            </p>
+              Security Researcher focused on discovering and mitigating vulnerabilities in web applications and APIs through systematic penetration testing and detailed reporting</p>
 
             <StaggeredAnimation className="grid grid-cols-2 gap-4 mb-6" initialDelay={0.2} delayIncrement={0.1}>
               <div className="flex items-start">
