@@ -48,7 +48,7 @@ function Scene() {
       <CyberModel />
       <ParticleField />
       <Text position={[0, 2.5, 0]} fontSize={0.5} color="#10b981" anchorX="center" anchorY="middle">
-        CYBERSECURITY ENGINEER
+        Security Researcher
       </Text>
       <Environment preset="night" />
       <OrbitControls
@@ -109,8 +109,7 @@ export default function Hero() {
             Mustafa Faek Banikhalaf
           </h1>
           <h2 className="text-xl md:text-2xl text-gray-300 mb-6 font-medium drop-shadow-lg">
-            Cybersecurity Engineer | Penetration Testing | Red Team Operations
-          </h2>
+            Security Researcher | Web Application Penetration Testing</h2>
         </motion.div>
 
         <motion.div
