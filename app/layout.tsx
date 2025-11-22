@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 export const metadata = {
   title: "0xmfbk.sec",
   description:
-    "Portfolio of Mustafa Faek Banikhalaf, a Cybersecurity Engineer specializing in Penetration Testing & Red Team operations.",
+    "Security Researcher focused on identifying and mitigating vulnerabilities in web applications through penetration testing and security research.",
 }
 
 export default function RootLayout({
