@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { Shield, Award, Code, Server, Network } from "lucide-react"
+import { Shield, Award, Code } from "lucide-react"
 import Image from "next/image"
 import SectionAnimation from "./section-animation"
 import StaggeredAnimation from "./staggered-animation"
@@ -62,20 +62,6 @@ export default function About() {
                 <div>
                   <h4 className="font-semibold">Projects</h4>
                   <p className="text-gray-400 text-sm">10+ Completed</p>
-                </div>
-              </div>
-              <div className="flex items-start">
-                <Server className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
-                <div>
-                  <h4 className="font-semibold">Systems</h4>
-                  <p className="text-gray-400 text-sm">Linux & Windows</p>
-                </div>
-              </div>
-              <div className="flex items-start">
-                <Network className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
-                <div>
-                  <h4 className="font-semibold">Networking</h4>
-                  <p className="text-gray-400 text-sm">CCNA & CCNP Knowledge</p>
                 </div>
               </div>
             </StaggeredAnimation>
