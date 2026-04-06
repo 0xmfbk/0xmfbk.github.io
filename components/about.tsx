@@ -40,7 +40,7 @@ export default function About() {
             <div className="absolute -bottom-6 -right-6 w-32 h-32 border-2 border-emerald-500 rounded-lg"></div>
             <div className="absolute -top-6 -left-6 w-32 h-32 border-2 border-emerald-500 rounded-lg"></div>
           </SectionAnimation>
-
+          
           <SectionAnimation direction="left" delay={0.4}>
             <h3 className="text-2xl font-bold mb-4 flex items-center">
               <Shield className="mr-2 text-emerald-500" /> Security Researcher
@@ -49,7 +49,7 @@ export default function About() {
             Security Researcher specializing in web application penetration testing, with practical experience in offensive security operations, community leadership in digital safety initiatives, and technical support for information systems. Skilled in identifying vulnerabilities through simulated attacks, fostering cybersecurity awareness via workshops and mentorship, and ensuring system resilience.
             Holds foundational certification in cybersecurity and actively contributes to ethical hacking and network security education.
             </p>
-
+            </SectionAnimation>
             <StaggeredAnimation className="grid grid-cols-2 gap-4 mb-6" initialDelay={0.2} delayIncrement={0.1}>
               <div className="flex items-start">
                 <Award className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
