@@ -49,7 +49,7 @@ export default function About() {
             Security Researcher specializing in web application penetration testing, with practical experience in offensive security operations, community leadership in digital safety initiatives, and technical support for information systems. Skilled in identifying vulnerabilities through simulated attacks, fostering cybersecurity awareness via workshops and mentorship, and ensuring system resilience.
             Holds foundational certification in cybersecurity and actively contributes to ethical hacking and network security education.
             </p>
-            </SectionAnimation>
+            
             <StaggeredAnimation className="grid grid-cols-2 gap-4 mb-6" initialDelay={0.2} delayIncrement={0.1}>
               <div className="flex items-start">
                 <Award className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
@@ -58,6 +58,7 @@ export default function About() {
                   <p className="text-gray-400 text-sm">3+ Years</p>
                 </div>
               </div>
+            </StaggeredAnimation>
           </SectionAnimation>
         </div>
       </div>
