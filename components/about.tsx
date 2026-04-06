@@ -58,20 +58,6 @@ export default function About() {
                   <p className="text-gray-400 text-sm">3+ Years</p>
                 </div>
               </div>
-              <div className="flex items-start">
-                <Code className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
-                <div>
-                  <h4 className="font-semibold">Projects</h4>
-                  <p className="text-gray-400 text-sm">10+ Completed</p>
-                </div>
-              </div>
-            </StaggeredAnimation>
-            <StaggeredAnimation className="flex flex-wrap gap-2" initialDelay={0.5} delayIncrement={0.05}>
-              <span className="px-3 py-1 bg-emerald-900/50 text-emerald-400 rounded-full text-sm">
-                Penetration Testing
-              </span>
-              <span className="px-3 py-1 bg-emerald-900/50 text-emerald-400 rounded-full text-sm">Red Teaming</span>
-            </StaggeredAnimation>
           </SectionAnimation>
         </div>
       </div>
