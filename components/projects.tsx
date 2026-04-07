@@ -35,19 +35,6 @@ const projects = [
     ],
   },
   {
-    title: "ATM-SYSTEM",
-    description:
-      "Client-server banking system handling deposits, withdrawals, and balance inquiries via TCP/IP sockets.",
-    tech: ["Python", "TCP/IP", "Threading", "Encryption"],
-    link: "https://github.com/0xmfbk/ATM-SYSEM",
-    icon: Shield,
-    highlights: [
-      "Built a client-server banking system handling deposits, withdrawals, and balance inquiries via TCP/IP sockets.",
-      "Designed thread-safe architecture supporting multiple concurrent client connections with encrypted data transmission.",
-      "Streamlined user experience with menu-driven interface and pyfiglet visual elements.",
-    ],
-  },
-  {
     title: "SecureSK-20",
     description: "SecureSK-20 is your all-in-one, modern terminal toolkit for secure password hashing, encryption, decryption, and file integrity. Fast, flexible, and perfect for cybersecurity, IT, and privacy enthusiasts! ",
     tech: ["Python", "Cryptography", "CLI", "Security"],
