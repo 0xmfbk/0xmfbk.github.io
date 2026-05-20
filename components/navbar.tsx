@@ -153,7 +153,7 @@ export default function Navbar() {
                 </button>
               ))}
               <a
-                href="https://drive.google.com/file/d/1UPRAKH6HJpYlrZhndWuJt9qMeNJxPsZk/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1kMZUQwX8PAByaA5_qz5hu0vSwOlCtdMJ/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-emerald-600 hover:bg-emerald-700 text-white w-full px-4 py-2 rounded text-center font-medium"
