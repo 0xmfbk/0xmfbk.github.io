@@ -1,24 +1,6 @@
 {
-    "Volunteer": [
-      {
-        "organization": "Tech3arabi",
-        "location": "Irbid, Jordan",
-        "role": "Representative",
-        "date": "November 2024 - Present",
-        "responsibilities": [
-          "Researched and presented technology news, focusing on AI and cybersecurity trends.",
-          "Enhanced community tech literacy by translating complex concepts into accessible content."
-        ]
-      },
-      {
-        "organization": "Robotna",
-        "location": "Irbid, Jordan",
-        "role": "VR Specialist",
-        "date": "February 2025 - March 2025",
-        "responsibilities": [
-          "Guided students and families through VR simulations, explaining applications in education and technology."
-        ]
-      },
+    "Volunteer": 
+    [
       {
         "organization": "Eye on the Future Initiative",
         "location": "Irbid, Jordan",
@@ -27,16 +9,6 @@
         "responsibilities": [
           "Mentored 50+ students in STEM career paths and cybersecurity fundamentals.",
           "Delivered workshops on job market trends and digital infrastructure protection."
-        ]
-      },
-      {
-        "organization": "GDSC YU",
-        "location": "Irbid, Jordan",
-        "role": "Technical Director",
-        "date": "October 2023 - October 2024",
-        "responsibilities": [
-          "Organized coding bootcamps and tech talks on AI and cybersecurity.",
-          "Bridged academic learning with industry needs to foster innovation."
         ]
       },
       {
