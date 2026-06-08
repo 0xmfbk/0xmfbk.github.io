@@ -108,8 +108,7 @@ export default function Hero() {
           <h1 className="text-4xl md:text-6xl font-extrabold mb-2 bg-gradient-to-r from-emerald-400 via-emerald-200 to-emerald-600 bg-clip-text text-transparent animate-gradient-x">
             Mustafa Faek Banikhalaf
           </h1>
-          <h2 className="text-xl md:text-2xl text-gray-300 mb-6 font-medium drop-shadow-lg">
-            Security Researcher | Web Application Penetration Testing</h2>
+          <h2 className="text-xl md:text-2xl text-gray-300 mb-6 font-medium drop-shadow-lg">Cybersecurity Associate | Offensive & Defensive Security</h2>
         </motion.div>
 
         <motion.div
