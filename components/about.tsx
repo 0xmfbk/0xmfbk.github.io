@@ -43,11 +43,10 @@ export default function About() {
           
           <SectionAnimation direction="left" delay={0.4}>
             <h3 className="text-2xl font-bold mb-4 flex items-center">
-              <Shield className="mr-2 text-emerald-500" /> Security Researcher
+              <Shield className="mr-2 text-emerald-500" /> Cybersecurity Associate | Offensive & Defensive Security
             </h3>
             <p className="text-gray-300 mb-6">
-            Security Researcher specializing in web application penetration testing, with practical experience in offensive security operations, community leadership in digital safety initiatives, and technical support for information systems. Skilled in identifying vulnerabilities through simulated attacks, fostering cybersecurity awareness via workshops and mentorship, and ensuring system resilience.
-            Holds foundational certification in cybersecurity and actively contributes to ethical hacking and network security education.
+          Cybersecurity Associate operating across both offensive and defensive disciplines. Backed by practical experience administering multi-platform Windows and Linux server environments and troubleshooting critical system infrastructure flaws. On the offensive side, I focus on web application penetration testing, mapping attack surfaces, and identifying OWASP Top 10 vulnerabilities. On the defensive side, I leverage my system administration background for infrastructure hardening and threat detection through enterprise log analysis using Splunk. I combine both mindsets to discover technical flaws and implement resilient, real-world security solutions.
             </p>
             
             <StaggeredAnimation className="grid grid-cols-2 gap-4 mb-6" initialDelay={0.2} delayIncrement={0.1}>
@@ -55,7 +54,7 @@ export default function About() {
                 <Award className="mr-2 text-emerald-500 mt-1 flex-shrink-0" />
                 <div>
                   <h4 className="font-semibold">Experience</h4>
-                  <p className="text-gray-400 text-sm">3+ Years</p>
+                  <p className="text-gray-400 text-sm">Associate Industry Experience</p>
                 </div>
               </div>
             </StaggeredAnimation>
