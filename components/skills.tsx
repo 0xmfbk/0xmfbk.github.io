@@ -10,41 +10,40 @@ const skillCategories = [
     name: "Offensive Security",
     icon: Shield,
     skills: [
-      "Web Application Penetration Testing (OWASP Top 10)",
-      "Network Security Assessment (External/Internal)",
-      "Vulnerability Research & Exploitation",
-      "API Security Testing",
-      "Privilege Escalation (Windows & Linux)",
+      "Web Application Penetration Testing",
+      "OWASP Top 10 Vulnerabilities Identification",
+      "Ethical Hacking Methodologies",
+      "Vulnerability Assessment & Mitigation"
     ],
   },
   {
     name: "Network & Infrastructure",
     icon: Network,
     skills: [
-      "Advanced Networking (Routing, Switching, VLANs)",
-      "Network Traffic Analysis & Packet Inspection",
-      "System Hardening (Windows & Linux)",
-      "Docker & Container Security",
-      "Virtualization Environments (VMware, VirtualBox)",
+      "Windows & Linux Server Administration",
+      "Network Infrastructure & Protocols",
+      "Operating System Hardening",
+      "Hardware Troubleshooting & Maintenance",
+      "Virtualization Environments (VMware, VirtualBox)"
     ],
   },
   {
     name: "Security Scripting & Dev",
     icon: Code,
     skills: [
-      "Security Automation (Python, Bash, PowerShell)",
-      "Exploit Development (Basic/Intermediate)",
-      "Secure Coding Principles",
-      "Version Control & Collaborative Work (Git)",
+      "Security Scripting (Python, Bash)",
+      "Technical Report Writing",
+      "Version Control & Collaboration (Git/GitHub)"
     ],
   },
   {
     name: "Forensics & Defense",
     icon: Search,
     skills: [
-      "Log Analysis & Incident Response",
-      "Digital Forensics Foundations",
-      "Access Control & Identity Management (IAM)",
+      "Enterprise Log Analysis (Splunk)",
+      "Digital Forensics Investigation Foundations",
+      "Incident Triage & Security Operations",
+      "Defense-in-Depth Principles"
     ],
   },
 ]
