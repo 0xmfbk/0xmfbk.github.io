@@ -42,9 +42,6 @@ export default function About() {
           </SectionAnimation>
           
           <SectionAnimation direction="left" delay={0.4}>
-            <h3 className="text-2xl font-bold mb-4 flex items-center">
-              <Shield className="mr-2 text-emerald-500" /> Cybersecurity Associate | Offensive & Defensive Security
-            </h3>
             <p className="text-gray-300 mb-6">
           Cybersecurity Associate operating across both offensive and defensive disciplines. Backed by practical experience administering multi-platform Windows and Linux server environments and troubleshooting critical system infrastructure flaws. On the offensive side, I focus on web application penetration testing, mapping attack surfaces, and identifying OWASP Top 10 vulnerabilities. On the defensive side, I leverage my system administration background for infrastructure hardening and threat detection through enterprise log analysis using Splunk. I combine both mindsets to discover technical flaws and implement resilient, real-world security solutions.
             </p>
