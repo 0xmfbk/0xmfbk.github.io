@@ -1,5 +1,27 @@
 {
-  "Experience": [
+  "Experience": 
+  [
+    {
+      "title": "SOC Analyst Intern",
+      "company": "Green Circle for Cybersecurity",
+      "location": "Amman, Jordan",
+      "period": "09/2025 - 12/2025",
+      "description": [
+        "SOC Track Trainee in an intensive cyber security program funded by the United States Agency for International Development (USAID) in partnership with Green Circle.",
+        "Successfully completed 120 training hours and practical cyber security activities inside the Security Operations Center (SOC) track.",
+        "Gained hands-on experience in threat monitoring, log analysis, incident response, and understanding SIEM workflows to detect and mitigate security breaches."
+      ]
+    },
+    {
+      "title": "Representative",
+      "company": "Tech3arabi",
+      "location": "Irbid, Jordan",
+      "period": "11/2024 - 12/2025",
+      "description": [
+        "Researched and presented breaking technology news, focusing on AI, metaverse, and digital marketing trends to educate diverse audiences.",
+        "Increased community tech literacy by translating complex concepts into accessible content, fostering informed participation in digital spaces."
+      ]
+    },
     {
       "title": "Founder",
       "company": "DSC YU",
@@ -12,14 +34,47 @@
       ]
     },
     {
-      "title": "Technical Support Associate",
-      "company": "The Computer Center of Yarmouk University",
-      "location": "Irbid, YU",
-      "period": "01/2022 - 12/2022",
+      "title": "Virtual Reality Specialist",
+      "company": "Robotna",
+      "location": "Irbid, Jordan",
+      "period": "02/2025 - 02/2025",
       "description": [
-        "Developed and maintained university websites, electronic services, and computer information systems while managing and updating main server devices and data storage units.",
-        "Provided technical support at Yarmouk University's Computer and Information Center, resolving hardware and software issues for users.",
-        "Ensured smooth operation of systems and servers, assisting in the upkeep and enhancement of electronic services and storage infrastructure."
+        "As a VR Specialist, I introduced visitors especially students and families to the world of Virtual Reality. I helped set up and operate VR equipment, guided people through exciting simulations, and made sure everyone had a safe and fun experience. I also explained how VR is used in fields like gaming, education, science, and more. My goal was to make technology easy to understand and enjoyable for all ages."
+      ]
+    },
+    {
+      "title": "Technical Support",
+      "company": "Computer and Information Center At Yarmouk University",
+      "location": "Irbid, Jordan",
+      "period": "01/2023 - 01/2025",
+      "description": [
+        "Provided front-line technical support to university students, diagnosing and resolving operating system, hardware, and software issues efficiently.",
+        "​Assisted in administering and troubleshooting Windows Server environments, ensuring system availability and proper user access controls.",
+        "Maintained and hardened technical support devices and lab workstations to ensure a secure and stable operating environment across the computer center.",
+        "Diagnosed critical system vulnerabilities and applied necessary patches, bridging hands-on IT support with foundational security practices."
+      ]
+    },
+    {
+      "title": "Technical Director",
+      "company": "GDSC YU",
+      "location": "Irbid, Jordan",
+      "period": "10/2023 - 10/2024",
+      "description": [
+        "Directed GDSC YU in empowering students with advanced tech skills through workshops, projects, and events.",
+        "Organized coding bootcamps, hackathons, and tech talks in AI, cyber security, cloud computing, and more.",
+        "Bridged academic learning with industry demands, fostering innovation and community impact."
+      ]
+    },
+    {
+      "title": "Cybersecurity Intern",
+      "company": "Cyber Shield Academy - Jo",
+      "location": "Irbid, Jordan",
+      "period": "11/2023 - 12/2023",
+      "description": [
+        "Selected for the 120-hour Upskilling for Cybersecurity training scholarship after passing competitive technical screening exams and interviews.",
+        "Committed to a rigorous, full-time daily training schedule (8:00 AM – 4:00 PM) designed to bridge academic theories with real-world industry demands.",
+        "Gained hands-on, practical experience across five core technical axes:\n\t• Networking: Mastering network architecture, protocols, and secure data transmission.\n\t• Linux OS: Deep proficiency in system administration, CLI, and environment configuration.\n\t• Cybersecurity Foundations: Defense-in-depth principles, security architecture, and risk management.\n\t• Ethical Hacking: Vulnerability assessment, penetration testing methodologies, and mitigation techniques.\n\t• Digital Forensic Investigation: Analyzing security incidents, log analysis, and tracing digital evidence.",
+        "Successfully cleared all final practical assessments and technical examinations required for graduation."
       ]
     }
   ]
