@@ -3,12 +3,38 @@
     "category": "Cybersecurity Certifications",
     "certificates": [
       {
+        "link": "https://drive.google.com/file/d/1_ZmUgSpDJhp8VranmkBxK4nTL6r6yUx4/view?usp=sharing",
+        "title": "Security Operations Center (SOC) Track",
+        "issuer": "Green Circle for Software Solutions",
+        "date": "Dec 2025",
+        "importance": "High - Practical hands-on SOC operations and extensive training"
+      },
+      {
+        "link": "https://drive.google.com/file/d/1cRjui_4NoMwFED7WeeS4EbQE6jbGEdz4/view?usp=sharing",
+        "title": "ISO/IEC 27001:2022 Lead Auditor",
+        "issuer": "Mastermind Assurance",
+        "date": "Jun 2026",
+        "importance": "Critical - Core Information Security Management System (ISMS)"
+      },
+      {
+        "link": "https://drive.google.com/file/d/1p8l9aRbzwHmrUiGvvRoDCXMFURe7YSVi/view?usp=sharing",
+        "title": "ISO/IEC 27701:2025 Lead Auditor",
+        "issuer": "Mastermind Assurance",
+        "date": "Jun 2026",
+        "importance": "High - Privacy Information Management System (PIMS)"
+      },
+      {
+        "link": "https://drive.google.com/file/d/1zqIqbXjwzYRNb5Wt-3OFcn0-RSoAHruE/view?usp=sharing",
+        "title": "ISO/IEC 42001:2023 Lead Auditor",
+        "issuer": "Mastermind Assurance",
+        "date": "Jun 2026",
+        "importance": "High - International standard for AI Management Systems"
+      },
+      {
         "link": "https://drive.google.com/file/d/1TDivfKtKFS6DQIgYfReyZiPYsFsR1_IA/view",
         "title": "Domain 1: Security Principles",
         "issuer": "ISC2",
         "date": "Jul 2024",
-        "status": "Active",
-        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
         "importance": "Medium - Core security domain"
       },
       {
@@ -16,8 +42,6 @@
         "title": "Domain 2: Incident Response, Business Continuity and Disaster Recovery Concepts",
         "issuer": "ISC2",
         "date": "Sep 2024",
-        "status": "Active",
-        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
         "importance": "Medium - Core security domain"
       },
       {
@@ -25,8 +49,6 @@
         "title": "Domain 3: Access Control Concepts",
         "issuer": "ISC2",
         "date": "Sep 2024",
-        "status": "Active",
-        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
         "importance": "Medium - Core security domain"
       },
       {
@@ -34,8 +56,6 @@
         "title": "Domain 4: Network Security",
         "issuer": "ISC2",
         "date": "Sep 2024",
-        "status": "Active",
-        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
         "importance": "Medium - Core security domain"
       },
       {
@@ -43,8 +63,6 @@
         "title": "Domain 5: Security Operations",
         "issuer": "ISC2",
         "date": "Sep 2024",
-        "status": "Active",
-        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
         "importance": "Medium - Core security domain"
       },
       {
@@ -52,8 +70,6 @@
         "title": "CC Certified in Cybersecurity (CC)",
         "issuer": "ISC2",
         "date": "Sep 2024",
-        "status": "Active",
-        "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
         "importance": "High - Industry recognized certification"
       },
       {
@@ -61,8 +77,6 @@
       "title": "CCCourse Conclusion & Final Assessment",
       "issuer": "ISC2",
       "date": "Sep 2024",
-      "status": "Active",
-      "id": "5130eb32-ebfc-4480-9e87-b90e4bca9ea7",
       "importance": "High - Industry recognized certification"
       },
       {
@@ -70,8 +84,6 @@
         "title": "Upskilling Program in Cybersecurity",
         "issuer": "Cyber Shield Academy - Jo",
         "date": "Nov 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Medium - Comprehensive training"
       },
       {
@@ -79,8 +91,6 @@
         "title": "Mastercard - Cybersecurity Job Simulation",
         "issuer": "Forage",
         "date": "Sep 2024",
-        "status": "Active",
-        "id": "DucKqEaYA2s48HL2S",
         "importance": "High - Practical industry application"
       },
       {
@@ -88,26 +98,20 @@
         "title": "TBEHC | Termux Beginner Ethical Hacking Course",
         "issuer": "Saad Maqsood",
         "date": "Mar 2025",
-        "status": "Active",
-        "id": "4923",
         "importance": "Medium-High - Practical ethical hacking skills"
       },
       {
         "link": "https://drive.google.com/file/d/1B4nC5zhh5hTTzlhd5Nlityl7yXItfIcp/view",
         "title": "Penetration Testing Practitioner (PTP)",
-        "issuer": "Cyber Shield الدرع السيبراني",
+        "issuer": "Cyber Shield",
         "date": "Jan 2024",
-        "status": "Expired",
-        "id": null,
         "importance": "Medium-High - Advanced practical skills"
       },
       {
         "link": "https://drive.google.com/file/d/1WNh86itX1XipK_Rlhan28pNpzOh9jA5I/view",
-        "title": "شهادة مشاركة في حفل إطلاق مجتمع الأمن الرقمي",
+        "title": "Certificate of Participation - Digital Security Community Launch Event",
         "issuer": "Yarmouk University",
         "date": "Aug 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - Community involvement"
       },
       {
@@ -115,8 +119,6 @@
         "title": "The foundation of penetration testing",
         "issuer": "Yarmouk University",
         "date": "May 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - Foundation skills"
       },
       {
@@ -124,8 +126,6 @@
         "title": "Fundamentals of Network Security",
         "issuer": "Udemy",
         "date": "Apr 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - Foundation skills"
       },
       {
@@ -133,8 +133,6 @@
         "title": "How to Secure your Network Device using Cisco Packet Tracer",
         "issuer": "EDX Alumni",
         "date": "Apr 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - Practical network security"
       },
       {
@@ -142,8 +140,6 @@
         "title": "CTF Yarmouk University Competition",
         "issuer": "Yarmouk University",
         "date": "Apr 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - Practical application"
       },
       {
@@ -151,8 +147,6 @@
         "title": "CTF Yarmouk University Competition",
         "issuer": "Yarmouk University",
         "date": "Aug 2023",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - Practical application"
       },
       {
@@ -160,8 +154,6 @@
         "title": "Introduction to Network Security",
         "issuer": "MaharaTech - ITIMooca",
         "date": "Jan 2024",
-        "status": "Expired",
-        "id": "rWihoxZ84D",
         "importance": "Medium - Foundation skills"
       },
       {
@@ -169,8 +161,6 @@
         "title": "Cybersecurity Roles, Processes & Operating System Security",
         "issuer": "IBM",
         "date": "Mar 2024",
-        "status": "Expired",
-        "id": "JGTFKB3FL2GU",
         "importance": "Medium - Core knowledge"
       },
       {
@@ -178,8 +168,6 @@
         "title": "Foundations of Cybersecurity",
         "issuer": "Google",
         "date": "Feb 2024",
-        "status": "Expired",
-        "id": "2UVVFK2V6S97",
         "importance": "Medium - Foundation skills"
       },
       {
@@ -187,44 +175,27 @@
         "title": "Introduction to Cybersecurity",
         "issuer": "Cisco Networking Academy",
         "date": "Nov 2023",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - Foundation knowledge"
       },
       {
         "link": "https://drive.google.com/file/d/1Nc220rcd4T092YGXibd38-msxJ-NPOKs/view",
-        "title": "الثقافة الرقمية - الأمن السيبراني",
+        "title": "Digital culture - cybersecurity",
         "issuer": "Orange Business",
         "date": "Apr 2025",
-        "status": "Expired",
-        "id": null,
         "importance": "Low-Medium - General knowledge"
       },
       {
         "link": "https://drive.google.com/file/d/1UbdkI0EmZSX7uY2xx6rgy3IbRktN8yWj/view?usp=drive_link",
-        "title": "محاربو السايبر",
+        "title": "Cyber Warriors",
         "issuer": "National Cyber Security Center (NCSCJO)",
         "date": "Feb 2023",
-        "status": "Active",
-        "id": null,
         "importance": "Low-Medium - Community involvement"
-      },
-      {
-        "link": "https://drive.google.com/file/d/1G9xWNPuNbDsqpdaiPcIRUpelfBknO2De/view",
-        "title": "Introduction to Critical Infrastructure Protection",
-        "issuer": "OPSWAT Academy",
-        "date": null,
-        "status": "Active",
-        "id": "la-A3YXbPA",
-        "importance": "Low-Medium - Specialized knowledge"
       },
       {
         "link": "https://drive.google.com/file/d/1mMmDc_4vW5mmgr1LKHOqk1YZWFYccj9y/view",
         "title": "Cybersecurity",
-        "issuer": "الأكاديمية العربية الدولية - Arab International Academy",
+        "issuer": "Arab International Academy",
         "date": "Mar 2023",
-        "status": "Active",
-        "id": null,
         "importance": "Low-Medium - General knowledge"
       },
       {
@@ -232,8 +203,6 @@
         "title": "Certificate of Completion - CyberSecurity Course (AIO Competition)",
         "issuer": "STEAM Center",
         "date": "Mar 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Low-Medium - Foundation training"
       },
       {
@@ -241,17 +210,13 @@
         "title": "Certificate of participation in Cybersecurity (AIO Competition)",
         "issuer": "STEAM Center",
         "date": "Jun 2023",
-        "status": "Active",
-        "id": null,
         "importance": "Low - Participation"
       },
       {
         "link": "https://drive.google.com/file/d/1E9JrXXNys7AC2HUOu80I_b-ySv59y-__/view",
         "title": "Cybersecurity Student Mentor",
-        "issuer": "مبادرة عينك على المستقبل",
+        "issuer": "Eye on the Future",
         "date": "Oct 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Low-Medium - Leadership role"
       },
       {
@@ -259,8 +224,6 @@
         "title": "Cybersecurity Essentials",
         "issuer": "Cisco Networking Academy",
         "date": "Jan 2022",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Foundation knowledge"
       }
     ]
@@ -273,8 +236,6 @@
         "title": "Networking Essentials",
         "issuer": "Cisco Networking Academy",
         "date": "Jun 2024",
-        "status": "Active",
-        "id": null,
         "importance": "High - Core networking skills"
       },
       {
@@ -282,8 +243,6 @@
         "title": "How To Build a Network Topology Using GNS3",
         "issuer": "EDX Alumni",
         "date": "Apr 2024",
-        "status": "Active",
-        "id": "39U4BWWWDKLF",
         "importance": "Medium - Practical skills"
       },
       {
@@ -291,8 +250,6 @@
         "title": "Linux: SSH to remote server & Networking basics for DevOps",
         "issuer": "Coursera",
         "date": "Apr 2024",
-        "status": "Active",
-        "id": "6U62MR958P4S",
         "importance": "Medium - Practical skills"
       },
       {
@@ -300,8 +257,6 @@
         "title": "Introduction to Packet Tracer",
         "issuer": "Cisco Networking Academy",
         "date": "Jun 2023",
-        "status": "Active",
-        "id": null,
         "importance": "Low-Medium - Tool proficiency"
       },
       {
@@ -309,8 +264,6 @@
         "title": "Networking Foundations: Networking Basics",
         "issuer": "LinkedIn",
         "date": "Aug 2021",
-        "status": "Active",
-        "id": "8e8eeef2eeb69b0b34fbe50273857b35e1458ac1163791e2782426806b55c87d",
         "importance": "Low - Foundation knowledge"
       }
     ]
@@ -323,8 +276,6 @@
         "title": "Managing file users and permissions in Linux by Access Control List (ACL)",
         "issuer": "EDX Alumni",
         "date": "Apr 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium-High - Security-related admin skills"
       },
       {
@@ -332,8 +283,6 @@
         "title": "Learn to Host Multiple Domains on one Virtual Server",
         "issuer": "Udemy",
         "date": "Mar 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium - System administration"
       },
       {
@@ -341,8 +290,6 @@
         "title": "Linux Beginner Commands",
         "issuer": "Udemy",
         "date": "Sep 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Foundation skills"
       }
     ]
@@ -355,8 +302,6 @@
         "title": "Introduction to Programming Using Python",
         "issuer": "The American Sewar Platform for Education and Training",
         "date": "Oct 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Medium-High - Security scripting potential"
       },
       {
@@ -364,8 +309,6 @@
         "title": "Introduction to Front-End Development",
         "issuer": "Meta",
         "date": "Jun 2024",
-        "status": "Active",
-        "id": "2LKK5VNLETPT",
         "importance": "Medium - Web development skills"
       },
       {
@@ -373,8 +316,6 @@
         "title": "Programming Foundations - Level 1",
         "issuer": "Programming Advices",
         "date": "Feb 2024",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Foundation skills"
       },
       {
@@ -382,8 +323,6 @@
         "title": "Web Development",
         "issuer": "Hijjawi College YU",
         "date": "Jul 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Web development skills"
       },
       {
@@ -391,8 +330,6 @@
         "title": "Python for beginners - Learn all the basic of python",
         "issuer": "Udemy",
         "date": "Oct 2022",
-        "status": "Active",
-        "id": null,
         "importance": "Low - Foundation skills"
       }
     ]
@@ -405,8 +342,6 @@
         "title": "AWS Educate Introduction to Generative AI",
         "issuer": "Amazon Web Services (AWS)",
         "date": "Mar 2025",
-        "status": "Active",
-        "id": null,
         "importance": "High - Cutting-edge AI knowledge"
       },
       {
@@ -414,8 +349,6 @@
         "title": "Master ChatGPT",
         "issuer": "UniAthena",
         "date": "Feb 2025",
-        "status": "Active",
-        "id": "3283-4230-6877",
         "importance": "Medium - AI tool proficiency"
       },
       {
@@ -423,8 +356,6 @@
         "title": "Arduino workshop",
         "issuer": "DevIT YU",
         "date": "May 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Low-Medium - Hardware skills"
       },
       {
@@ -432,8 +363,6 @@
         "title": "Robotics and Smart System Designing",
         "issuer": "Zain Jordan",
         "date": "Oct 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Low-Medium - Hardware skills"
       },
       {
@@ -441,8 +370,6 @@
         "title": "Digital Transformation: Technology and Their Practical Applications",
         "issuer": "Executive MBA in collaboration with MIT Sloan",
         "date": "Aug 2022",
-        "status": "Expired",
-        "id": null,
         "importance": "Low-Medium - Emerging tech knowledge"
       }
     ]
@@ -455,8 +382,6 @@
         "title": "Careers Using OSINT Skills",
         "issuer": "My OSINT Training",
         "date": "May 2024",
-        "status": "Active",
-        "id": "42j2vpn4ez",
         "importance": "Medium-High - Security intelligence skills"
       },
       {
@@ -464,8 +389,6 @@
         "title": "Introduction to OSINT",
         "issuer": "My OSINT Training",
         "date": "May 2024",
-        "status": "Active",
-        "id": "zmdt6vugi8",
         "importance": "Medium - Security intelligence skills"
       }
     ]
@@ -478,8 +401,6 @@
         "title": "Quality Assurance-Automation using Selenium-Java",
         "issuer": "ABEDALRAHEEM ALSAQQA",
         "date": "Feb 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Testing skills"
       },
       {
@@ -487,8 +408,6 @@
         "title": "Quality Assurance Manual",
         "issuer": "Abedalraheem Alsaqqa",
         "date": "Jan 2023",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Testing skills"
       }
     ]
@@ -501,8 +420,6 @@
         "title": "Gaming Design and Development Electronic Competition",
         "issuer": "Yarmouk University",
         "date": "Jul 2024",
-        "status": "Active",
-        "id": null,
         "importance": "Low - Creative technical skills"
       }
     ]
@@ -513,19 +430,15 @@
       {
         "link": "https://drive.google.com/file/d/1pJYhceKe7oizLt4HJkk9myAJagDRPAXc/view",
         "title": "The 13 Indisputable Laws of Leadership",
-        "issuer": "Mastery Academy | ماستري اكاديمي",
+        "issuer": "Mastery Academy",
         "date": "Feb 2025",
-        "status": "Active",
-        "id": "VKF7AA3XGD",
         "importance": "Medium - Professional development"
       },
       {
         "link": "https://drive.google.com/file/d/12eB6Tk3Rp8vxZ0Fu1wxJZmMAIMyngcG8/view",
         "title": "The 13 Indisputable Laws of Marketing",
-        "issuer": "Mastery Academy | ماستري اكاديمي",
+        "issuer": "Mastery Academy",
         "date": "Feb 2025",
-        "status": "Active",
-        "id": "11HSJWQKAS",
         "importance": "Low-Medium - Professional development"
       },
       {
@@ -533,8 +446,6 @@
         "title": "Volunteer",
         "issuer": "Robotna",
         "date": "Feb 2025",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Community involvement"
       },
       {
@@ -542,26 +453,20 @@
         "title": "The Bite To Byte",
         "issuer": "IEEE Computer society - YU",
         "date": "Nov 2024",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Event participation"
       },
       {
         "link": "http://drive.google.com/file/d/1zKxnlUo_b4IckmbYsl1hp2vuwuXsdMLS/view",
-        "title": "أنا اشارك",
+        "title": "The program \"Ana Asharek\"",
         "issuer": "Crown Prince Foundation",
         "date": "Jan 2022",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Community involvement"
       },
       {
         "link": "https://drive.google.com/file/d/1VvbVlmATY99q2KyX8FCtAQmaABHRorfW/view",
-        "title": "+ أنا اشارك",
+        "title": "The program \"Ana Asharek +\"",
         "issuer": "Independent Election Commission - Jordan",
         "date": "Nov 2022",
-        "status": "Expired",
-        "id": null,
         "importance": "Low - Community involvement"
       }
     ]
