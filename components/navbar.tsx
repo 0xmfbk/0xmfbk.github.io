@@ -19,7 +19,7 @@ export default function Navbar() {
       setScrolled(window.scrollY > 10)
 
       // Determine active section based on scroll position
-      const sections = ["hero", "about", "experience","volunteering","projects", "skills", "certificates","credly"]
+      const sections = ["hero", "about", "experience","volunteering","projects", "skills", "certificates"]
 
       // Find the current section in view
       const currentSection = sections.find((section) => {
@@ -82,7 +82,6 @@ export default function Navbar() {
     { id: "projects", label: "Projects" },
     { id: "skills", label: "Skills" },
     { id: "certificates", label: "Certificates" },
-    { id: "credly", label: "Credly" },
     { id: "hacker-terminal", label: "Whoami" },
   ]
 
@@ -123,7 +122,7 @@ export default function Navbar() {
               href="https://www.credly.com/users/0xmfbk"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-gray-300 hover:text-emerald-400 transition-colors font-medium text-sm border border-emerald-500/30 hover:border-emerald-500 px-3 py-1.5 rounded"
+              className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
             >
               Credly
             </a>
@@ -131,7 +130,7 @@ export default function Navbar() {
               href="https://drive.google.com/file/d/1gvj9iJbjA_8hazSzD65jv4dCIOnEMgHs/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium"
+              className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
             >
               Resume
             </a>
@@ -165,7 +164,7 @@ export default function Navbar() {
               href="https://www.credly.com/users/0xmfbk"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-gray-300 hover:text-emerald-400 transition-colors font-medium text-sm border border-emerald-500/30 hover:border-emerald-500 px-3 py-1.5 rounded"
+              className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
               >
               Credly
             </a>
@@ -173,7 +172,7 @@ export default function Navbar() {
                 href="https://drive.google.com/file/d/1gvj9iJbjA_8hazSzD65jv4dCIOnEMgHs/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-emerald-600 hover:bg-emerald-700 text-white w-full px-4 py-2 rounded text-center font-medium"
+                className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
               >
                 Resume
               </a>
