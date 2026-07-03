@@ -19,7 +19,7 @@ export default function Navbar() {
       setScrolled(window.scrollY > 10)
 
       // Determine active section based on scroll position
-      const sections = ["hero", "about", "experience","volunteering","projects", "skills", "certificates"]
+      const sections = ["hero", "about", "experience","volunteering","projects", "skills", "certificates","credly"]
 
       // Find the current section in view
       const currentSection = sections.find((section) => {
@@ -82,6 +82,7 @@ export default function Navbar() {
     { id: "projects", label: "Projects" },
     { id: "skills", label: "Skills" },
     { id: "certificates", label: "Certificates" },
+    { id: "credly", label: "Credly" },
     { id: "hacker-terminal", label: "Whoami" },
   ]
 
@@ -119,6 +120,14 @@ export default function Navbar() {
               </button>
             ))}
             <a
+              href="https://www.credly.com/users/0xmfbk"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-emerald-400 transition-colors font-medium text-sm border border-emerald-500/30 hover:border-emerald-500 px-3 py-1.5 rounded"
+            >
+              Credly
+            </a>
+            <a
               href="https://drive.google.com/file/d/1gvj9iJbjA_8hazSzD65jv4dCIOnEMgHs/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
@@ -152,6 +161,14 @@ export default function Navbar() {
                   {section.label}
                 </button>
               ))}
+              <a
+              href="https://www.credly.com/users/0xmfbk"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-emerald-400 transition-colors font-medium text-sm border border-emerald-500/30 hover:border-emerald-500 px-3 py-1.5 rounded"
+              >
+              Credly
+            </a>
               <a
                 href="https://drive.google.com/file/d/1gvj9iJbjA_8hazSzD65jv4dCIOnEMgHs/view?usp=sharing"
                 target="_blank"
