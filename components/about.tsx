@@ -28,8 +28,8 @@ export default function About() {
           <SectionAnimation direction="right" delay={0.2} className="relative">
             <div className="w-full h-[400px] relative rounded-lg overflow-hidden border-2 border-emerald-500/30">
               <Image
-                src="/img.png"
-                alt="perimg"
+                src="/avatar1.png"
+                alt="Profile Image"
                 fill
                 style={{ objectFit: "contain", objectPosition: "top" }}
                 className="rounded-lg"
