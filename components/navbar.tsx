@@ -119,7 +119,7 @@ export default function Navbar() {
               </button>
             ))}
              <a
-              href="https://0xmfbk.netlify.app/"
+              href="https://oxmfbk.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
@@ -169,7 +169,7 @@ export default function Navbar() {
                 </button>
               ))}
                <a
-              href="https://0xmfbk.netlify.app/"
+              href="https://oxmfbk.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
