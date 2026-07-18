@@ -135,7 +135,7 @@ export default function Navbar() {
               Credly
             </a>
             <a
-              href="https://drive.google.com/file/d/1gvj9iJbjA_8hazSzD65jv4dCIOnEMgHs/view?usp=sharing"
+              href="https://drive.google.com/file/d/1GIMYEkFOLeva96fbuGf6OuDFXAe4EWby/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
@@ -185,7 +185,7 @@ export default function Navbar() {
               Credly
             </a>
               <a
-                href="https://drive.google.com/file/d/1gvj9iJbjA_8hazSzD65jv4dCIOnEMgHs/view?usp=sharing"
+                href="https://drive.google.com/file/d/1GIMYEkFOLeva96fbuGf6OuDFXAe4EWby/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded transition-colors font-medium text-sm"
