@@ -96,7 +96,7 @@ export default function Navbar() {
         <div className="mx-auto px-9 flex justify-between items-center">
           <div className="flex items-center gap-2 cursor-pointer" onClick={() => scrollToSection("hero")}>
             <Image src="/img.ico" alt="Logo" width={40} height={40} className="rounded-full bg-white border border-emerald-500 cyber-glow" />
-            <span className="text-xl font-bold tracking-tight">0xmfbk<span className="text-emerald-500">.sec</span></span>
+            <span className="text-xl font-bold tracking-tight"><span className="text-emerald-500">0xmfbk.sec</span></span>
           </div>
 
           {/* Desktop Navigation */}
