@@ -48,7 +48,7 @@ function Scene() {
       <CyberModel />
       <ParticleField />
       <Text position={[0, 2.5, 0]} fontSize={0.5} color="#10b981" anchorX="center" anchorY="middle">
-        Cybersecurity Associate
+        0xmfbk
       </Text>
       <Environment preset="night" />
       <OrbitControls
