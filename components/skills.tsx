@@ -24,7 +24,7 @@ const skillCategories = [
       "Network Infrastructure & Protocols",
       "Operating System Hardening",
       "Hardware Troubleshooting & Maintenance",
-      "Virtualization Environments (VMware, VirtualBox)"
+      "Virtualization Environments (Proxmox VE, VMware, QEMU, VirtualBox)"
     ],
   },
   {
@@ -86,17 +86,7 @@ export default function Skills() {
             </div>
           ))}
         </StaggeredAnimation>
-
         {/* قسم المهارات العامة (Core Strengths) بدون نسب مئوية لإبقائها مهنية */}
-        <SectionAnimation className="mt-12 text-center" delay={0.5} direction="up">
-          <div className="flex flex-wrap justify-center gap-4">
-            {["System Hardening", "Vulnerability Assessment", "Traffic Analysis", "Security Automation"].map((tag) => (
-              <span key={tag} className="px-4 py-2 bg-gray-800 border border-gray-700 rounded-full text-emerald-500 text-sm">
-                {tag}
-              </span>
-            ))}
-          </div>
-        </SectionAnimation>
       </div>
     </SectionAnimation>
   )
