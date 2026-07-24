@@ -111,32 +111,7 @@ export default function Hero() {
           <h2 className="text-xl md:text-2xl text-gray-300 mb-6 font-medium drop-shadow-lg">Cybersecurity Associate | Offensive & Defensive Security</h2>
         </motion.div>
 
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.3 }}
-          className="flex flex-col sm:flex-row gap-4"
-        >
-          <Button
-            className="bg-emerald-600 hover:bg-emerald-700 text-white px-6 py-3 rounded-lg shadow-lg transition-all duration-300 text-lg font-semibold focus:outline-none focus:ring-2 focus:ring-emerald-400 focus:ring-offset-2"
-            onClick={() => {
-              const projectsSection = document.getElementById("projects")
-              if (projectsSection) {
-                const navbarHeight = document.querySelector("nav")?.offsetHeight || 0
-                const elementPosition = projectsSection.getBoundingClientRect().top
-                const offsetPosition = elementPosition + window.pageYOffset - navbarHeight
-
-                window.scrollTo({
-                  top: offsetPosition,
-                  behavior: "smooth",
-                })
-              }
-            }}
-            aria-label="View Projects"
-          >
-            View Projects
-          </Button>
-        </motion.div>
+        
       </div>
 
       {/* Animated Down Arrow */}
